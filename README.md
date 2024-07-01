@@ -1,5 +1,5 @@
 # EmpowerMen
-EmpowerMen is a Question-Answering (QA) application designed to address queries related to false accusations of rape against men, enriched through a knowledge base sourced from podcasts. This project aims to provide accurate and informed responses using advanced natural language processing techniques.
+EmpowerMen is a Question-Answering (QA) application designed to address queries related to false accusations of rape against men, enriched through a knowledge base sourced from podcasts. This project aims to provide accurate and informed responses using RAG.
 
 ## Project Flow
 ### Step 1: Dataset Creation for Knowledge Base
