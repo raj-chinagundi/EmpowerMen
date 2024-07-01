@@ -1,5 +1,9 @@
 # EmpowerMen
-EmpowerMen is a Question-Answering (QA) application designed to address queries related to false accusations of rape against men, enriched through a knowledge base sourced from podcasts. This project aims to provide accurate and informed responses using RAG.
+EmpowerMen is a Question-Answering (QA) application designed to address queries related to false accusations of rape against men, enriched through a knowledge base sourced from podcasts from {Journalist | Filmmaker | Social Activist} Deepika Bhardwaj [Twitter](https://twitter.com/DeepikaBhardwaj). This project aims to provide accurate and informed responses using RAG based on 5 hours of podcast content from three podcasts.
+- URLs to podcast videos:
+  - [Video 1](https://youtu.be/zDmG5P1ZCD0?si=RnKoqV0iUd_hVx7f)
+  - [Video 2](https://youtu.be/2-2n8uLnxRI?si=pCvxlrH4TKrxeX82)
+  - [Video 3](https://www.youtube.com/watch?v=2q0goTPfm_8)
 
 ## Project Flow
 ### Step 1: Dataset Creation for Knowledge Base
